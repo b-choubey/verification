@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "267456888951",
+    "firebase_url": "https://verification-83a9c.firebaseio.com",
+    "project_id": "verification-83a9c",
+    "storage_bucket": "verification-83a9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267456888951:android:a1ac72bc40e5f35f",
+        "android_client_info": {
+          "package_name": "com.marwari.verification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267456888951-ioij3morb9qiajlvbq1ln2k4f4k5i7im.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2nFhLhxpZsA3zHEkdOReMapZUhK-lPOc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
